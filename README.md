@@ -2,12 +2,14 @@
 ### Bem vindo ao meu GitHub
 
 
-🌵 Sou baiano
-👩‍💻 Atualmente trabalho e estudo Ciência de Dados
-💻 Participante da Comunidade Data Science
-👯 Adoro estar inserido em comunidades que valorizem a tecnologia
-💬 Acredito que umas das formas de aprender é compartilhando conhecimento
-🛠️ Python, SQL, Excel, Power BI, Git, 
+- 🌵 Sou baiano
+- 👩‍💻 Atualmente trabalho e estudo Ciência de Dados
+- 💻 Participante da Comunidade Data Science
+- 🧑‍🤝‍🧑 Adoro estar inserido em comunidades que valorizem a tecnologia
+- 💬 Acredito que umas das formas de aprender é compartilhando conhecimento
+- 🛠️ Python, SQL, Excel, Power BI, Git, 
+
+
 
 
 ## Contact :mailbox_with_no_mail::
