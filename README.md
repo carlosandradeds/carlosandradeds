@@ -19,10 +19,10 @@
 
 ## Projetos Data Science
 
-### [Rossmann - Sales Forecast](https://github.com/carlosandradeds/health-insurance-cross-sell)
+### [Rossmann - Sales Forecast](https://github.com/carlosandradeds/store_sales_predict)
 Modelo para predição de vendas de ponta a ponta, desde a coleta dos dados até a implantação do modelo em produção. O modelo é baseado em técnicas de Machine Learning e tem uma taxa de previsão superior a 90%. O modelo foi implementado na nuvem e visualizado através de um Chat Bot no Telegram.
 
-### [Health Insurance Cross Sell - Learning to Rank](https://github.com/carlosandradeds/store_sales_predict)
+### [Health Insurance Cross Sell - Learning to Rank](https://github.com/carlosandradeds/health-insurance-cross-sell)
 Construção de modelo de Classificação – Learning to Rank de ponta a ponta desde a coleta até implementação do modelo em produção. O modelo foi desenvolvido para classificar clientes de uma empresa de seguros, onde o modelo classifica e gera um score para cada cliente, que já possui um primeiro produto e tem probabilidade de garantir um novo produto. Foi feito o deploy em nuvem e implementado através de uma planilha do Google Sheets. O modelo alcançou uma capacidade 2x maior que o baseline, garantido a empresa maior capacidade de identificar clientes propensos a um novo seguro. 
 
 ### [House Rocket - Insights Project](https://github.com/carlosandradeds/house-rocket)
