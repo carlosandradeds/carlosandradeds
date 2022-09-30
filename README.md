@@ -29,4 +29,4 @@ Construção de modelo de Classificação – Learning to Rank de ponta a ponta 
 Projeto de análise exploratória dos dados, para uma empresa de compra e venda de imóveis, identificando as melhores opções de venda e compra, identificando também o melhor período para as negociações. Fazendo todo trabalho de ETL e ao final a entrega de dashboards através do Streamlit para visualização dos dados.
 
 ### [Insiders Clustering](https://github.com/carlosandradeds/insiders_clustering)
-Projeto de Clusterização em produção
+Projeto de Clusterização para identificar grupos de clientes valiosos para uma campanha de um programa de fidelização. O processo contou com a limpeza e preparação dos dados para testes com diferentes modelos como K-Means, GMM, Hierarchical Clustering, DBSCAN. O projeto foi implementado em Cloud por meio da AWS, com arquitetura utilizando S3, EC2 e RDS. O resultado foi visualizado a partir de um Dashboard no Metabase
