@@ -19,6 +19,9 @@
 
 ## Projetos Data Science
 
+### [Insiders Clustering](https://github.com/carlosandradeds/insiders_clustering)
+Projeto de Clusterização para identificar grupos de clientes valiosos para uma campanha de um programa de fidelização. O processo contou com a limpeza e preparação dos dados para testes com diferentes modelos como K-Means, GMM, Hierarchical Clustering, DBSCAN. O projeto foi implementado em Cloud por meio da AWS, com arquitetura utilizando S3, EC2 e RDS. O resultado foi visualizado a partir de um Dashboard no Metabase
+
 ### [Rossmann - Sales Forecast](https://github.com/carlosandradeds/store_sales_predict)
 Modelo para predição de vendas de ponta a ponta, desde a coleta dos dados até a implantação do modelo em produção. O modelo é baseado em técnicas de Machine Learning e tem uma taxa de previsão superior a 90%. O modelo foi implementado na nuvem e visualizado através de um Chat Bot no Telegram.
 
@@ -27,6 +30,3 @@ Construção de modelo de Classificação – Learning to Rank de ponta a ponta 
 
 ### [House Rocket - Insights Project](https://github.com/carlosandradeds/house-rocket)
 Projeto de análise exploratória dos dados, para uma empresa de compra e venda de imóveis, identificando as melhores opções de venda e compra, identificando também o melhor período para as negociações. Fazendo todo trabalho de ETL e ao final a entrega de dashboards através do Streamlit para visualização dos dados.
-
-### [Insiders Clustering](https://github.com/carlosandradeds/insiders_clustering)
-Projeto de Clusterização para identificar grupos de clientes valiosos para uma campanha de um programa de fidelização. O processo contou com a limpeza e preparação dos dados para testes com diferentes modelos como K-Means, GMM, Hierarchical Clustering, DBSCAN. O projeto foi implementado em Cloud por meio da AWS, com arquitetura utilizando S3, EC2 e RDS. O resultado foi visualizado a partir de um Dashboard no Metabase
